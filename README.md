@@ -1,2 +1,2 @@
 # Traffic-Sign-Classifier
-Python Script for Detecting Traffic Signs
+Notebook for Detecting Traffic Signs
